@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.heading{
+    font-size: 29px;
+    margin: 30px 0px 50px 0px;
+}
+.center{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.color{
+    font-size: 25px;
+    padding: 10px;
+    font-weight: 650;
+}
+
+.input{
+    height: 40px;
+    width: 300px;
+    border: 3px solid rgb(230, 84, 205);
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+    font-size: 16px;
+}
+
+button{
+    margin: 20px 0px ;
+    height: 35px;
+    width: 80px;
+    font-size: 15px;
+    background-color:  rgb(230, 84, 205);
+    border: 3px solid rgb(230, 84, 205);
+    border-radius: 5px;
+    color: seashell;
+}
